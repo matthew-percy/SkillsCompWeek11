@@ -1,0 +1,9 @@
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\_COLLEGE\Semester6\PRG655\Lab1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SenecaCurriculumForm.resources
